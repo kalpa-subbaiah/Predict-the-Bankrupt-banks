@@ -1,7 +1,7 @@
 # 02092017_Batch30_CUTe_CSE7305c
 
 
-PFA the bankruptcy data set along with attribute description.
+PFA the bankruptcy data set along with the attribute description.
 
 Details:
 
